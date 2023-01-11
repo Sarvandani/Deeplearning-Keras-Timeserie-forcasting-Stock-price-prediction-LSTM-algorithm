@@ -1,1 +1,1 @@
-# Stock-price-prediction-unsing-LSTM-algorithm-of-deep-learning
+# Stock-price-prediction-using-LSTM-algorithm-of-deep-learning
