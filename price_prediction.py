@@ -27,7 +27,7 @@ data = yf.download('AAPL',
                       start=start_date, 
                       end=end_date, 
                       progress=False)
-# include data in dataset
+# include date in dataset
 data["Date"] = data.index
 data = data[["Date", "Open", "High", "Low", "Close", 
              "Adj Close", "Volume"]]
